@@ -1,0 +1,5 @@
+Packages have been made with Unity Pro 3.4.3
+Recommended Unity version for book: 3.3 and up
+XNView available at: http://www.xnview.com/
+Maya version used: Maya 2014
+Photoshop version used: CS6
